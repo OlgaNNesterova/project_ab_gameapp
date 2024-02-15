@@ -1,5 +1,4 @@
-## project_ab_gameapp
-Исследование результатов А/В теста для игрового приложения
+## Исследование результатов А/В теста для игрового приложения
 
 ## Cтек:
 <img src="https://img.shields.io/badge/python-white?logo=python&style=for-the-badge" title="Python" alt="Python" height="40"/>&nbsp;
