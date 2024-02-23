@@ -1,5 +1,7 @@
 ## Исследование результатов А/В теста для игрового приложения
 
+Исследовала результаты A/B теста игрового приложения, в котором двум группам пользователей предлагались различные наборы акционных предложений. Цель исследования - определить, какой набор предложений можно считать лучшим
+
 ## Cтек:
 <img src="https://img.shields.io/badge/python-white?logo=python&style=for-the-badge" title="Python" alt="Python" height="40"/>&nbsp;
 <img src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=blue&style=for-the-badge" title="Pandas" alt="Pandas" height="40"/>&nbsp;
